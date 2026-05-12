@@ -1,0 +1,3 @@
+{"IdCliente":0,"Documento":"91919191919","Nome":"Caio Pereira","Sexo":"MASCULINO","Email":"caio@gmail.com","Telefone":"7162626262","Fax":"7152525252","UF":"BA"},
+{"IdCliente":0,"Documento":"0101010101","Nome":"Bruno Vinicus","Sexo":"MASCULINO","Email":"bruno@gmail.com","Telefone":"718888888","Fax":"716666666","UF":"BA"},
+{"IdCliente":0,"Documento":"717171711717","Nome":"Lorena Sousa","Sexo":"FEMININO","Email":"lorena@gmail.com","Telefone":"718888888","Fax":"712222222","UF":"BA"},

@@ -1,0 +1,14 @@
+GO
+
+CREATE PROCEDURE PROC_DELETAR_CLIENTES
+(
+	@IdCliente INT
+)
+
+AS
+
+BEGIN
+
+	DELETE FROM Clientes WHERE IdCliente = @IdCliente
+
+END
